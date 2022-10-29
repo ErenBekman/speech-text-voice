@@ -1,4 +1,4 @@
-# Speech-vue
+# Speech&Text-App
 
 ## :rocket: Technologies
 
